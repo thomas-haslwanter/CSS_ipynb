@@ -2,6 +2,6 @@
 
 Here you can find IPYNB-Notebooks for this lecture.
 
-**Note**: if you want to view them online, please check out the
-HTML-versions for the *Vestibular_[xxx]* Notebooks, as currently equations
-are not properly displayed on Github.
+**Note**: Unfortunately, Github currently renders equations incorrectly. To
+view the *Vestibular_[xxx]* files, you can download them, and view them as
+PDF or HTML (where available).
