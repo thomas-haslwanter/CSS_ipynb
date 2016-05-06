@@ -2,6 +2,20 @@
 
 Here you can find IPYNB-Notebooks for this lecture.
 
-**Note**: Unfortunately, Github currently renders equations incorrectly. To
-view the *Vestibular_[xxx]* files, you can download them, and view them as
-PDF or HTML (where available).
+**Note**:IPYNB-Notebooks containing equations are rendered correctly in the Notebook-viewer.
+Simply replace, in the HTML-link, 
+
+https://github.com[xxx]
+
+    with
+
+http://nbviewer.jupyter.org/github[xxx]
+
+E.g.
+
+https://github.com/thomas-haslwanter/CSS_ipynb/blob/master/Vestibular_1_MathDescription.ipynb
+
+    becomes
+
+http://nbviewer.jupyter.org/github/thomas-haslwanter/CSS_ipynb/blob/master/Vestibular_1_MathDescription.ipynb
+
