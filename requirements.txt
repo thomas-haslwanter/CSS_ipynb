@@ -1,0 +1,9 @@
+numpy
+matplotlib
+PIL
+scipy
+skimage
+cv2
+os
+IPython
+control
