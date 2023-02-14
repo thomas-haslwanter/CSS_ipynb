@@ -7,3 +7,4 @@ cv2
 os
 IPython
 control
+scikit-kinematics
