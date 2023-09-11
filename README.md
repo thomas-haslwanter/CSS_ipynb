@@ -1,6 +1,6 @@
 ##Computer Simulations of Sensory Systems
 
-Here you can find IPYNB-Notebooks for this lecture.
+Here you can find IPYNB-Notebooks for this lecture .
 
 **Note**:IPYNB-Notebooks containing equations are rendered correctly in the Notebook-viewer.
 Simply replace, in the HTML-link, 
